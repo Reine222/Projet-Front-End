@@ -10,3 +10,5 @@ https://fonts.google.com/
 https://fontawesome.com/start
 # les balises html et leurs attributs :
 https://jaetheme.com/balises-html5/
+# les balises html et leurs fonctions :
+https://facemweb.com/creation-site-internet/liste-balises-html
