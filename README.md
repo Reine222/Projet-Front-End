@@ -12,3 +12,5 @@ https://fontawesome.com/start
 https://jaetheme.com/balises-html5/
 # les balises html et leurs fonctions :
 https://facemweb.com/creation-site-internet/liste-balises-html
+
+https://www.apprendre-en-ligne.net/javascript/HTML_balises.pdf
