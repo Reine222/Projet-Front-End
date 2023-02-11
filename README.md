@@ -14,3 +14,6 @@ https://jaetheme.com/balises-html5/
 https://facemweb.com/creation-site-internet/liste-balises-html
 
 https://www.apprendre-en-ligne.net/javascript/HTML_balises.pdf
+
+# Proprietes css : 
+https://www.w3schools.com/css/css_background.asp
