@@ -6,3 +6,5 @@ https://getbootstrap.com/docs/5.3/getting-started/download/
 https://jquery.com/download/
 # Etape 3 : telecharge fonts
 https://fonts.google.com/
+# Etapes 4 : telecharge icons dans download
+https://fontawesome.com/start
