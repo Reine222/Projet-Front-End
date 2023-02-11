@@ -8,3 +8,5 @@ https://jquery.com/download/
 https://fonts.google.com/
 # Etapes 4 : telecharge icons dans download
 https://fontawesome.com/start
+# les balises html et leurs attributs :
+https://jaetheme.com/balises-html5/
